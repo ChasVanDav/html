@@ -4,4 +4,3 @@
 ## About Me
 I am a working mama who loves traveling, learning new languages, and ofcourse software engineering.
 
-![My Photo](./public/VanessaTravels.jpg)
